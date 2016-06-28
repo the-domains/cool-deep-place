@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T14:44:58.515Z'
+datePublished: '2016-06-28T14:47:09.984Z'
 sourcePath: _posts/2016-04-16-a-guide-to-great-coffee-in-kichijoji-tokyo-sprudge.md
 inFeed: true
 isBasedOnUrl: 'http://sprudge.com/kichijoji-coffee-guide-96034.html'
@@ -35,7 +35,7 @@ author:
   - name: Elyse Bouvier
     url: 'http://sprudge.com/author/elyse-bouvier'
     avatar: {}
-dateModified: '2016-06-28T14:44:57.855Z'
+dateModified: '2016-06-28T14:46:39.641Z'
 title: 'A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge'
 app_links: []
 publisher:
@@ -43,11 +43,7 @@ publisher:
   name: Sprudge
   favicon: 'http://sprudge.com/wp-content/themes/news-pro/images/favicon.ico'
   domain: sprudge.com
-description: >-
-  Spring in Japan is marked by the cherry blossom, when pink clouds of the
-  blooming flower paint on a canvas of clear blue sky. It's a time to celebrate
-  the beautiful transience of life, which the locals often do at picnics in the
-  park-known as -under a gentle rain of falling petals.
+description: top line
 inLanguage: en
 inNav: false
 starred: false
@@ -55,4 +51,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge</h1><p>Spring in Japan is marked by the cherry blossom, when pink clouds of the blooming flower paint on a canvas of clear blue sky. It's a time to celebrate the beautiful transience of life, which the locals often do at picnics in the park-known as -under a gentle rain of falling petals.</p><img src="http://sprudge.com/wp-content/uploads/2016/03/Sprudge-KichijojiGuide-HengteeLim-21_Kichijoji_Zenon.jpg" /></article>
+top line
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5deb09d7253cefed9c88b1d256141d53382a8173.jpg" /><h1>A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge</h1><p>Spring in Japan is marked by the cherry blossom, when pink clouds of the blooming flower paint on a canvas of clear blue sky. It's a time to celebrate the beautiful transience of life, which the locals often do at picnics in the park-known as -under a gentle rain of falling petals.</p></article>
+
+bottom line
